@@ -92,3 +92,4 @@ IP-CIDR, 202.226.25.166/32, direct
 IP-CIDR, 202.226.25.171/32, direct
 IP-CIDR, 202.226.25.195/32, direct
 IP-CIDR, 202.226.25.198/32, direct
+IP-CIDR, 52.58.0.0/15, direct
